@@ -5,4 +5,4 @@ Test_WeatherFeature
  - current tempurature will appear in purple on the right
  - current API submitted weather keyword will appear in "( )"
  - words before the keyword are generated with simple logic statements based 
-on tempurature range
+on temperature range
